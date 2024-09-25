@@ -33,7 +33,7 @@ Assignment -3(Actions, JavaScript Executors):
 ➤ Suggested method javascript Executor 
 
 Selenium Module 3
-Assignment -1(TestNG):
+Assignment_Test1(TestNG):
 ➤ url : https://demo.guru99.com/test/login.html
 ➤ Using TestNG Annotaions to complete this assignment
 ➤ In Before test annotation must have the initialize the drivers

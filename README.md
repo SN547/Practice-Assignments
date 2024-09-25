@@ -1,12 +1,12 @@
 Selenium Module 1
-Assignment -1(Locators working with Web Elements)
+Assignment - 01(Locators working with Web Elements)
 ➤ URL (https://demo.guru99.com/test/radio.html
 ➤ Invoke Chrome browser
 ➤ Verify the Page Tittle. 
 ➤ Find Option 1 and select
 ➤ Find Checkbox2 and Checkbox3 and select
 
-Assignment - 2(select from dropdown)
+Assignment - 02(select from dropdown)
 ➤ Suggested site(https://demo.guru99.com/test/newtours/register.php)
 ➤ Find Country Dropdown
 ➤ Select “KUWAIT”
@@ -42,7 +42,7 @@ Assignment_Test1(TestNG):
 ➤ In After annotation must have the close() to close the application
 
 Selenium Module 4
-Assignment -1(Apache POI (Data Driven)):
+Assignment - 001(Apache POI (Data Driven)):
 ➤ url : http://demo.guru99.com/V4/
 ➤ Get the data from excel sheet using Apache poi
 ➤ Enter the username 
